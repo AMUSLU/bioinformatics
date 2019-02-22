@@ -1,5 +1,5 @@
 ##we can covert a string to lower case by using a new type of syntax
-# This meyhod calls "lower" and it belongs to string type
+# This method calls "lower" and it belongs to string type
 
 my_dna = "ATGC"
 print(my_dna.lower())
