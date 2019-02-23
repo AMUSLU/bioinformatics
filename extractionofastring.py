@@ -5,7 +5,7 @@
 protein="vlspadktnv"
 print(protein[3:5])
 
-#positions strat at zero, NOT ONE ##
+#positions start at zero, NOT ONE ##
 
 print(protein[0:6])
 
